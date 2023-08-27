@@ -1,0 +1,20 @@
+name: Gerar Gráfico de Contribuição
+
+on:
+  push:
+    branches:
+      - main 
+jobs:
+  generate-contribution-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar gráfico de contribuição
+        uses: Platane/snk@v3
+        with:
+          github_user_name: JonasLeiteProgramador
+          outputs: |
+            dist/github-snake.svg?color_snake=007B8D&color_dots=#033649,#045C6F,#057080,#06828D,#07949A
