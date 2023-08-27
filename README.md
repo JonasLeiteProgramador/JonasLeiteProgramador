@@ -21,7 +21,7 @@ Olá,Tudo bem?,eu espero que sim!, Eu sou Jonas Leite Atualmente sou estudante d
   
 </div>
 
-![github-snake](https://github.com/JonasLeiteProgramador/JonasLeiteProgramador/blob/output/github-snake.svg)
+
 
 
 
