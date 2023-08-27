@@ -3,7 +3,8 @@ name: Gerar Gráfico de Contribuição
 on:
   push:
     branches:
-      - main 
+      - main  # Substitua pela branch principal do seu repositório
+
 jobs:
   generate-contribution-graph:
     runs-on: ubuntu-latest
@@ -13,8 +14,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Gerar gráfico de contribuição
-        uses: Platane/snk@v3
-        with:
-          github_user_name: JonasLeiteProgramador
-          outputs: |
-            dist/github-snake.svg?color_snake=007B8D&color_dots=#033649,#045C6F,#057080,#06828D,#07949A
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          curl -sL https://github.com/Platane/snk/raw/v3/dist/eb52186792247e6a7212cd215c5d1312.svg -o dist/github-snake.svg?color_snake=007B8D&color_dots=#033649,#045C6F,#057080,#06828D,#07949A
+
