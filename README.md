@@ -1,6 +1,6 @@
 Olá,Tudo bem?,eu espero que sim!, Eu sou Jonas Leite Atualmente sou estudante da area de programação!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasLeiteProgramador&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasLeiteProgramador&show_icons=true&theme=transparent&count_private=true)
 
 
 - 🌱 Estudando  JavaScript
