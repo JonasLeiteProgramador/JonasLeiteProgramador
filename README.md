@@ -20,6 +20,9 @@ Olá,Tudo bem?,eu espero que sim!, Eu sou Jonas Leite Atualmente sou estudante d
   <a href="https://www.linkedin.com/in/jonas-leite-perfil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![github-snake](https://github.com/JonasLeiteProgramador/JonasLeiteProgramador/blob/output/github-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
