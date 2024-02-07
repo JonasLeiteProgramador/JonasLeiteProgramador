@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there! Welcome to my Github profile.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&height=35&lines=My+name+is+Jonas+Leite!;I'm+a+Full+Stack+developer!;I+have+20+years+old!;My+nickname+is+%22Jony+CMOS%22!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&height=35&lines=My+name+is+Jonas+Leite!;I'm+a+Full+Stack+developer!;I+have+20+years+old!;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JonasLeiteProgramador&color=blue" alt="Profile views"/> <p>
 
