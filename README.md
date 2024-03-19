@@ -14,7 +14,7 @@
 
 - 🔭 I'm currently learning new things, and I cursing full stack programming on Programadores do Amanhã
 
-- 🌱 I'm currently learning Node.
+- 🌱 I'm currently learning React.
 
 - 👯 I am looking to collaborate on research and teaching projects for companies.
 
