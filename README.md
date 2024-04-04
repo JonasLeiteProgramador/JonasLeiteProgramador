@@ -18,7 +18,7 @@
 
 - 👯 I am looking to collaborate on research and teaching projects for companies.
 
-- 💬 ask me about **HTML, CSS, JavaScript,SQL,docker,git.**
+- 💬 ask me about **HTML, CSS, JavaScript,SQL,docker,git and react.**
 
 
 <br><br>
