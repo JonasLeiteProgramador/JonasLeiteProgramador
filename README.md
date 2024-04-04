@@ -39,8 +39,14 @@
 
 <!--- snake -->
 <div align="center">
-  <img width="900em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+  <img src="https://profile-counter.glitch.me/JonasLeiteProgramador/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JonasLeiteProgramador/JonasLeiteProgramador/output/snake.svg" alt="Snake animation" />
+
+###
 <br>
 
 <p align="center">
@@ -50,15 +56,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasLeiteProgramador&layout=compact&theme=merko" alt="Jonas Leite most languages"/>
 </p>
 <br><br>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JonasLeiteProgramador/count.svg?"  />
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/JonasLeiteProgramador/JonasLeiteProgramador/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
