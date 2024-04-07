@@ -43,7 +43,7 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JonasLeiteProgramador&show_icons=true&theme=merko" alt="Estatísticas de Jonas Leite"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JonasLeiteProgramador&show_icons=true&theme="transparent" alt="Estatísticas de Jonas Leite"/>
 </p>
 <p align="center">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasLeiteProgramador&layout=compact&theme=merko" alt="Maiores linguagens de Jonas Leite"/>
